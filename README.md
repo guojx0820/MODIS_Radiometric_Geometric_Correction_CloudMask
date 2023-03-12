@@ -1,2 +1,1 @@
 # MODIS_Radiometric_Geometric_Correction_CloudMask
-# MODIS_Radiometric_Geometric_Correction_CloudMask
